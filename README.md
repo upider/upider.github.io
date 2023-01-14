@@ -1,6 +1,6 @@
 ![](logo.jpg)
 
-# Upider's Blog
+# Upider's Notebook
 
 ## 个人简介
 
